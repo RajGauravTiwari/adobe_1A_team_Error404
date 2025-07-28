@@ -1,0 +1,8 @@
+pdf2image
+pytesseract
+Pillow
+pdfminer.six
+PyMuPDF
+numpy
+scikit-learn
+
